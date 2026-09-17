@@ -1,16 +1,62 @@
-# React + Vite
+# 💖 Our Pookie Diary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **A handmade digital scrapbook for the love of my life.**
 
-Currently, two official plugins are available:
+A romantic scrapbook website built with **React + Vite** to celebrate our **first anniversary**. This isn't just a photo gallery—it's a little diary filled with our favourite pictures, a heartfelt letter, our special dates, music, and memories that we'll keep adding to forever.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 💕 Heart-shaped cover page
+- 📸 Scrapbook-style photo diary
+- 🎥 Our little movie section
+- 💌 A handwritten anniversary letter
+- 📅 Pookie Calendar with our special dates
+- 🎵 Background music
+- 📱 Fully responsive for desktop & mobile
+- 🌸 Soft Pinterest / Korean aesthetic design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🗂️ Project Structure
 
-## Expanding the ESLint configuration
+```text
+src/
+│
+├── assets/
+│   ├── cover.jpg
+│   ├── p1.jpg ... p9.jpg
+│   ├── song.mp3
+│   └── ourvideo.mp4
+│
+├── App.jsx
+├── App.css
+└── main.jsx
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:5173
+```
+
+## 💌 A Little Note
+
+Dear Aayu,
+
+This diary is my favourite project I've ever built because every page has **you** in it. Thank you for giving me the happiest 365 days of my life. I hope one day we'll look back at this little website together and smile at how beautifully our story began.
+
+**Happy One Year Anniversary to Us.** ❤️
+
+Forever Yours,  
+**Agarwal Sahab**
+
+---
+
+### Built with Love 🤍
+
+**React • Vite • CSS • Lots of Love**
