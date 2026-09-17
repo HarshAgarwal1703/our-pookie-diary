@@ -10,7 +10,7 @@ import p5 from "./assets/p5.jpg";
 import p6 from "./assets/p6.jpg";
 import p7 from "./assets/p7.jpg";
 import p8 from "./assets/p8.jpg";
-import p9 from "./assets/p9.jpg";
+import p9 from "./assets/p9.JPG";
 
 import song from "./assets/song.mp3";
 import ourVideo from "./assets/ourvideo.mp4";
